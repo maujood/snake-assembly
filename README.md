@@ -1,7 +1,7 @@
 snake-assembly
 ==============
 
-The "snake" game in IA-32 assembly language. I made it as the course project for the course in assembly language programming.
+The "snake" game in IA-32 assembly language. I made it as the course project for my course in assembly language programming.
 
 
 Running the program
