@@ -2,7 +2,6 @@ TITLE Snake.asm
 
 ; A snake game written in assembly using Kip Irvnine's Irvine32 assembly
 ; library.
-;
 
 INCLUDE Irvine32.inc
 
